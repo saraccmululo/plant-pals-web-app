@@ -2,12 +2,6 @@
 ![PlantPals Homepage](screenshots/homepage.png)
 ![PlantPals Login](screenshots/login.png)
 
-
-![PlantPals Homepage](screenshots/homepage.png)
-![PlantPals Details](screenshots/login.png)
-
-
-
 Responsive web app that helps users manage their plant collections with personalized dashboards and dynamic plant care information.
 
 ---
