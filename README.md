@@ -1,4 +1,7 @@
 # PlantPals Web App
+![PlantPals Homepage](screenshots/homepage.png)
+![PlantPals Login](screenshots/login.png)
+
 
 ![PlantPals Homepage](screenshots/homepage.png)
 ![PlantPals Details](screenshots/login.png)
