@@ -1,4 +1,7 @@
 # PlantPals Web App
+![PlantPals Dashboard](./screenshots/homepage.png)
+![PlantPals Collection](./screenshots/login.png)
+
 
 Responsive web app that helps users manage their plant collections with personalized dashboards and dynamic plant care information.
 
